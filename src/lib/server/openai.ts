@@ -22,7 +22,7 @@ export async function GenerateTripAdvice(destination: string, activity: string, 
 		];
 
 		const resp = client.listChatCompletions(deploymentId, messages as ChatRequestMessage[], {
-			maxTokens: 256
+			maxTokens: 160
 		});
 		let responseText = '';
 
