@@ -1,4 +1,4 @@
-# DevQ Demo Applicaiton Q1 2024
+# DevQ Demo Application Q1 2024
 
 This application was used as demo app to show how to use Azure OPEN AI API
 
